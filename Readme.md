@@ -1,4 +1,4 @@
-#Business logic:
+# Business logic:
 Program which count average bytes per request by IP and total bytes by IP. 
 Output is file with rows as: IP,175.5,109854. For logs like:
 99.168.127.53 - - [20/May/2010:07:34:13 +0100] "GET /media/img/m-inact.gif HTTP/1.1" 200 2571 "http://www.example.com/" "Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1_3 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7E18 Safari/528.16"
@@ -11,7 +11,7 @@ Sequence file
 Counters is used for statistics about malformed rows collection
 
 
-### Mandatory
+# Mandatory
 ZIP-ed src folder with your implementation
 Screenshot of successfully executed tests
 Screenshot of successfully uploaded file into HDFS 
