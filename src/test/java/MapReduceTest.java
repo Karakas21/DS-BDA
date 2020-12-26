@@ -1,7 +1,7 @@
-import bd.homework1.DataWritable;
+import bd.hw1.DataWritable;
 import eu.bitwalker.useragentutils.UserAgent;
-import bd.homework1.HW1Mapper;
-import bd.homework1.HW1Reducer;
+import bd.hw1.HW1Mapper;
+import bd.hw1.HW1Reducer;
 import org.apache.hadoop.io.FloatWritable;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;
